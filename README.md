@@ -38,7 +38,7 @@ Dataset link:https://www.theforage.com/virtual-experience/5N2ygyhzMWjKQmgCK/cogn
 
 ## LIBRARIES USED:
 
-   - Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, datetime, Statsmodels, Tensorflow, Numpy, Keras.
+   - Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, datetime,Tensorflow, Numpy, Keras.
 
 
 ## TABLE OF CONTENTS:
