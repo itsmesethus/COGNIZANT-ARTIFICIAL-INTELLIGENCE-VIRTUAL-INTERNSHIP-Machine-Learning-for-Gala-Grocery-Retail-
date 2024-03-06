@@ -1,4 +1,4 @@
-# ProjectTitle: CHRONO-POWER-FORECAST-ELECTRICITY-DEMAND-FORECASTING-FOR-UNITED-KINGDOM-FOR-THE-YEAR-2024
+# ProjectTitle: COGNIZANT-ARTIFICIAL-INTELLIGENCE-VIRTUAL-INTERNSHIP-Machine-Learning-for-Gala-Grocery-Retail
 
 Dataset link:https://www.theforage.com/virtual-experience/5N2ygyhzMWjKQmgCK/cognizant/artificial-intelligence-rtbq/exploratory-data-analysis
 
