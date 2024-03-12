@@ -2,6 +2,10 @@
 
 Dataset link:https://www.theforage.com/virtual-experience/5N2ygyhzMWjKQmgCK/cognizant/artificial-intelligence-rtbq/exploratory-data-analysis
 
+Dashboard:
+[Download Video]([https://raw.githubusercontent.com/YourUsername/YourRepository/main/video.mp4](https://github.com/itsmesethus/COGNIZANT-ARTIFICIAL-INTELLIGENCE-VIRTUAL-INTERNSHIP-Machine-Learning-for-Gala-Grocery-Retail-/blob/main/dashboard/dashboard%20screen%20capture.webm))
+
+
 *************************************************************************************************************************************
 
 ## OBJECTIVE:
